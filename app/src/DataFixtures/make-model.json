@@ -1,0 +1,17 @@
+[
+ {
+   "make": "Škoda",
+   "models" : [
+        "Octavia",
+        "Fabia"
+   ]
+ },
+  {
+    "make": "Peugeot",
+    "models" : [
+      "208",
+      "308",
+      "408"
+    ]
+  }
+]

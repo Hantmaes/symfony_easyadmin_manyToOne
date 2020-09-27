@@ -1,0 +1,7 @@
+easy_admin:
+   site_name: 'Defend Insurance'
+   entities:
+       # List the entity class name you want to manage
+       - App\Entity\Make
+       - App\Entity\Model
+       - App\Entity\User
